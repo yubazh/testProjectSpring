@@ -1,1 +1,1 @@
-# testProjectSpring
+Тестовый проект на Spring + использование SQL
